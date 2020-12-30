@@ -1,2 +1,2 @@
-# Portfolio-szat
+# Portfolio-Natalia Szatkowska
 Portfolio tester oprogramowania
