@@ -26,7 +26,7 @@ Manual software tester
 # My test case example
 * documentation and testing example (https://drive.google.com/file/d/1VIqPQ5kjD-Dqh1S3deAmdOAiEnynvajZ/view?usp=sharing)
 * specific case testing  (https://docs.google.com/spreadsheets/d/1dq5vz1RPrAW5JcwbXwcwK2nMJTzQculW_SPVnCOTqIU/edit?usp=sharing)
-* exploratory test example
+* exploratory test example (https://docs.google.com/document/d/1n4EfR2BECcWLNXJ6lYsNC-6Nq7XMXxYTQOPAEexURxQ/edit?usp=sharing)
 * zmiana stanów
 * decisions board
 
