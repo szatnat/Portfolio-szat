@@ -1,5 +1,5 @@
 # Portfolio-Natalia Szatkowska
-Portfolio tester oprogramowania
+Manual software tester
 # About me 
 
 # Tools
