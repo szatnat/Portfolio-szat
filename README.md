@@ -35,9 +35,9 @@ Manual software tester
 # My bug reports
 
 # Project 1 - profilize me
-* digital presentation (general information)
+* digital presentation (general information) https://docs.google.com/presentation/d/1iFaWtv7lKEokBnyKbFSEbuQAWi0uBvMn/edit?usp=drive_web&ouid=118284556195866559003&rtpof=true
 * miro
 
 # Project 2 - bonus+
-* digital presentation (general information)
+* digital presentation (general information) https://view.genial.ly/5fc2baedc852dd0d36381122/presentation-bonus
 * miro
