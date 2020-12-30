@@ -30,7 +30,7 @@ Manual software tester
 * case testing 2.0 (https://docs.google.com/document/d/1lPY1ua-hQVz4Ih_nMO_2otjbTvLLwfobxdzPaey4h14/edit?usp=sharing)
 * zmiana stanów
 * decisions board
-
+* documentation teamwork full project
 # My bug reports
 
 # Project 1 - profilize me
