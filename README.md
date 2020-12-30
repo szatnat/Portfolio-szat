@@ -3,8 +3,18 @@ Portfolio tester oprogramowania
 # About me 
 
 # Tools
+* Jira
+* Miro
+* Mural
+* GitHub
+* LateX
 
 # Tech skills
+* Scrum 
+* Software testing
+* Reporting bugs
+* Creating statistics and decision tables
+* Creating various test cases
 
 # Certificates
 
