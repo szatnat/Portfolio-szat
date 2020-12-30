@@ -19,8 +19,11 @@ Manual software tester
 # Certificates
 
 # Courses
+* Future collars - manualny tester oprogramowania
+* Digital University - women in IT
 
 # My test case example
+* specific case testing  (https://docs.google.com/spreadsheets/d/1dq5vz1RPrAW5JcwbXwcwK2nMJTzQculW_SPVnCOTqIU/edit?usp=sharing)
 
 # My bug reports
 
