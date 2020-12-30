@@ -22,6 +22,7 @@ Manual software tester
 # Courses
 * Future collars - manualny tester oprogramowania
 * Digital University - women in IT
+* CS50 Introduction to computer science - edX
 
 # My test case example
 * documentation and testing example (https://drive.google.com/file/d/1VIqPQ5kjD-Dqh1S3deAmdOAiEnynvajZ/view?usp=sharing)
