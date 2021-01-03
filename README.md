@@ -2,7 +2,7 @@
 
 # About me 
 Manual software tester
-find out more in my CurriculumVitae (https://cv.pracuj.pl/wizard/download-cv)
+find out more in my CurriculumVitae (https://drive.google.com/file/d/1TvPsvO09UxlhteF0c-TRj_H7k0gX6XB2/view?usp=sharing)
 
 # Tools
 * Jira
