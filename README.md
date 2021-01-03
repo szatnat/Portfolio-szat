@@ -20,6 +20,7 @@ find out more in my CurriculumVitae (https://drive.google.com/file/d/1TvPsvO09Ux
 * Creating statistics and decision tables
 * Creating various test cases
 * Agile developement
+* DevTools
 
 # Certificates
 
@@ -38,6 +39,7 @@ find out more in my CurriculumVitae (https://drive.google.com/file/d/1TvPsvO09Ux
 * documentation teamwork full project (https://drive.google.com/file/d/1NIxJlOrb4G0RtbgJ2V2B64xkaRR_txQ-/view?usp=sharing)
 
 # My bug reports
+* JIRA version  https://testermanulanyfc.atlassian.net/sr/jira.issueviews:searchrequest-fullcontent/temp/SearchRequest.html?jqlQuery=project+%3D+%22PROF%22+AND+reporter+IN+%28currentUser%28%29%29+AND+type+IN+%28%2210068%22%29+ORDER+BY+created+DESC&tempMax=1000
 
 # Project 1 - profilize me
 * digital presentation (general information) https://docs.google.com/presentation/d/1iFaWtv7lKEokBnyKbFSEbuQAWi0uBvMn/edit?usp=drive_web&ouid=118284556195866559003&rtpof=true
