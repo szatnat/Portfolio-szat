@@ -21,6 +21,7 @@ Find out more in my CurriculumVitae (https://drive.google.com/file/d/1TvPsvO09Ux
 * Creating various test cases
 * Agile developement
 * DevTools
+* ISTQB-founded knowledge
 
 # Certificates
 
