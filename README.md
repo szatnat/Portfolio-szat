@@ -1,8 +1,8 @@
 # Portfolio-Natalia Szatkowska
-Manual software tester
-find out more in my CurriculumVitae (https://cv.pracuj.pl/wizard/download-cv)
 
 # About me 
+Manual software tester
+find out more in my CurriculumVitae (https://cv.pracuj.pl/wizard/download-cv)
 
 # Tools
 * Jira
