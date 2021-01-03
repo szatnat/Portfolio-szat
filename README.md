@@ -1,5 +1,6 @@
 # Portfolio-Natalia Szatkowska
-Manual software tester
+Manual software tester,find out more in my CurriculumVitae (https://cv.pracuj.pl/wizard/download-cv)
+
 # About me 
 
 # Tools
@@ -8,6 +9,8 @@ Manual software tester
 * Mural
 * GitHub
 * LateX
+* MS Word
+* Mac Os
 
 # Tech skills
 * Scrum 
@@ -20,7 +23,7 @@ Manual software tester
 # Certificates
 
 # Courses
-* Future collars - manualny tester oprogramowania
+* Future collars - manual testing
 * Digital University - women in IT
 * CS50 Introduction to computer science - edX
 
@@ -31,13 +34,14 @@ Manual software tester
 * case testing 2.0 (https://docs.google.com/document/d/1lPY1ua-hQVz4Ih_nMO_2otjbTvLLwfobxdzPaey4h14/edit?usp=sharing)
 * zmiana stanów
 * decisions board
-* documentation teamwork full project
+* documentation teamwork full project (https://drive.google.com/file/d/1NIxJlOrb4G0RtbgJ2V2B64xkaRR_txQ-/view?usp=sharing)
+
 # My bug reports
 
 # Project 1 - profilize me
 * digital presentation (general information) https://docs.google.com/presentation/d/1iFaWtv7lKEokBnyKbFSEbuQAWi0uBvMn/edit?usp=drive_web&ouid=118284556195866559003&rtpof=true
-* miro
+* miro (https://miro.com/app/board/o9J_ldjyUHg=/?utm_source=notification&utm_medium=email&utm_campaign=daily-updates&utm_content=go-to-board)
 
 # Project 2 - bonus+
 * digital presentation (general information) https://view.genial.ly/5fc2baedc852dd0d36381122/presentation-bonus
-* miro
+* miro 
