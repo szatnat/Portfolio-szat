@@ -1,8 +1,8 @@
 # Portfolio-Natalia Szatkowska
 
 # About me 
-Manual software tester
-find out more in my CurriculumVitae (https://drive.google.com/file/d/1TvPsvO09UxlhteF0c-TRj_H7k0gX6XB2/view?usp=sharing)
+Manual software tester.
+Find out more in my CurriculumVitae (https://drive.google.com/file/d/1TvPsvO09UxlhteF0c-TRj_H7k0gX6XB2/view?usp=sharing)
 
 # Tools
 * Jira
