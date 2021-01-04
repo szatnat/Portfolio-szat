@@ -41,6 +41,7 @@ Find out more in my CurriculumVitae (https://drive.google.com/file/d/1TvPsvO09Ux
 
 # My bug reports
 * JIRA version (https://testermanulanyfc.atlassian.net/sr/jira.issueviews:searchrequest-fullcontent/temp/SearchRequest.html?jqlQuery=project+%3D+%22PROF%22+AND+reporter+IN+%28currentUser%28%29%29+AND+type+IN+%28%2210068%22%29+ORDER+BY+created+DESC&tempMax=1000)
+* google.doc shortened version (https://docs.google.com/document/d/1GTsNyrst1qkhpmAFLi3J2HwErwiFGaDHtP7mvp_SwbI/edit?usp=sharing)
 
 
 # Project 1 - profilize me
