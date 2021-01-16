@@ -2,7 +2,7 @@
 
 # About me 
 Manual software tester.
-Find out more in my CurriculumVitae (https://drive.google.com/file/d/1TvPsvO09UxlhteF0c-TRj_H7k0gX6XB2/view?usp=sharing)
+Find out more in my CurriculumVitae (https://drive.google.com/file/d/1Td4h2Yxhq_FjAn1LyfDz8wpU4AG_y3DF/view?usp=sharing)
 
 # Tools
 * Jira
@@ -12,9 +12,11 @@ Find out more in my CurriculumVitae (https://drive.google.com/file/d/1TvPsvO09Ux
 * LateX
 * MS Word
 * Mac Os
+* Slack
+* Zoom
+* Teams
 
 # Tech skills
-* Scrum 
 * Software testing
 * Reporting bugs
 * Creating statistics and decision tables
@@ -36,11 +38,9 @@ Find out more in my CurriculumVitae (https://drive.google.com/file/d/1TvPsvO09Ux
 * exploratory test example (https://docs.google.com/document/d/1n4EfR2BECcWLNXJ6lYsNC-6Nq7XMXxYTQOPAEexURxQ/edit?usp=sharing)
 * case testing 2.0 (https://docs.google.com/document/d/1lPY1ua-hQVz4Ih_nMO_2otjbTvLLwfobxdzPaey4h14/edit?usp=sharing)
 * change of state testing (https://drive.google.com/file/d/1EezyYITMhbfjlnXWFw6hyxb7pQvGwdE5/view?usp=sharing)
-* decisions board
 * documentation teamwork full project (https://drive.google.com/file/d/1NIxJlOrb4G0RtbgJ2V2B64xkaRR_txQ-/view?usp=sharing)
 
 # My bug reports
-* JIRA version (https://testermanulanyfc.atlassian.net/sr/jira.issueviews:searchrequest-fullcontent/temp/SearchRequest.html?jqlQuery=project+%3D+%22PROF%22+AND+reporter+IN+%28currentUser%28%29%29+AND+type+IN+%28%2210068%22%29+ORDER+BY+created+DESC&tempMax=1000)
 * google.doc shortened version (https://docs.google.com/document/d/1GTsNyrst1qkhpmAFLi3J2HwErwiFGaDHtP7mvp_SwbI/edit?usp=sharing)
 
 
