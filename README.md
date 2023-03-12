@@ -2,7 +2,7 @@
 
 # About me 
 Manual software tester.
-Find out more in my CurriculumVitae (https://drive.google.com/file/d/1Td4h2Yxhq_FjAn1LyfDz8wpU4AG_y3DF/view?usp=sharing)
+
 
 # Tools
 * Jira
